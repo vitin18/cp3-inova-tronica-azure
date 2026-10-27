@@ -1,0 +1,12 @@
+{
+  "name": "inova-tronica-webapp",
+  "version": "1.0.0",
+  "description": "Sistema Web e Assistente Cloud da Inova Trônica",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
